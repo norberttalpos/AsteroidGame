@@ -1,4 +1,12 @@
 # AsteroidGame
+Adja csapat:
+
+Bosznai Barnabás
+Ernyei Tamás
+Istenes Márton
+Kovács Boldizsár
+Talpos Norbert
+
 🥴🥴🥴🥴🥴🥴🥴🥴
 
 Feladat
